@@ -1,3 +1,4 @@
+python
 """
 training_tracker_v3.py
 フィットネス-疲労モデル (Banister Model) とコンディションモニタリング (睡眠・RHR・HRV・体重) を統合した
